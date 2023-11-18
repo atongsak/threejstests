@@ -35,7 +35,7 @@ npx vite
 
 <img src="readme/terminal.png" width=600px>
 
-Note: Make sure to unzip john.glb.zip in loading_objs or else you won't see him rotating in the browser (I had to compress his size even after rescaling him in Blender because of GitHub's file size limit).
+Note: Make sure to unzip john.glb.zip in loading_objs or else you won't see him rotating in the browser (I had to compress his size even after rescaling him in Blender because of GitHub's 50 MB file size limit from command line).
 # Notes
 
 - I've noticed that when creating a new web experiment, I have to install three.js and Vite each time.
