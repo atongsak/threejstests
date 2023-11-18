@@ -32,7 +32,8 @@ npm install --save-dev vite
 npx vite
 ```
 6. You should now see a URL like http://localhost:5173/ appear in your terminal, and you can open that URL to see the web experiment.
-<img src="readme/terminal.png>
+
+<img src="readme/terminal.png" width=600px>
 
 Note: Make sure to unzip john.glb.zip in loading_objs or else you won't see him rotating in the browser (I had to compress his size even after rescaling him in Blender because of GitHub's file size limit).
 # Notes
