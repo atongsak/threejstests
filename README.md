@@ -16,7 +16,7 @@ Currently includes:
 
 # How to Install & Use
 
-1. 'clone' repository and 'cd' into directory.
+1. `clone` repository and `cd` into directory.
 2. If you don't already have it, install Node.js.
 3. Install three.js and a build tool, Vite:
 ```bash
@@ -26,7 +26,7 @@ npm install --save three
 # vite
 npm install --save-dev vite
 ```
-4. 'cd' into the folder you want to examine.
+4. `cd` into the folder you want to examine.
 5. Then run:
 ```bash
 npx vite
