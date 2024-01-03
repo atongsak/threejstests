@@ -40,4 +40,4 @@ Note: Make sure to unzip john.glb.zip in loading_objs or else you won't see him 
 
 - I've noticed that when creating a new web experiment, I have to install three.js and Vite each time.
 - An object's axis of rotation when you export it as a .glb/gltf file from Blender matters. I previously had john.glb's axis at the origin, so when I applied rotating animation, he rotated in a circle. I had to set origin to geometry for him to spin in place like that. 
-- Considering GitHub's file size limit, it seems that we have to compress our 3D scenes if we're going to put them in a repository.
+- Considering GitHub's file size limit, it seems that we'll have to compress our 3D scenes if we're going to put them in a repository.
